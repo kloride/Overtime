@@ -1,0 +1,24 @@
+                                      Overview
+
+This Overtime Clocking system is designed in such a way to takes worker's overtime work into cognisance in a realtime without having to fill any overtime sheet at the end of the month or week for the manager to sign thereby eradicating redundancy or productive time wasted in moving from one office to another in order to get it signed.
+To correct the inadequacies of the manual time/worksheet system and advent the computer software,advanced time keeping techniques.
+keeps track of the time and ensure logical ways to monitor and record an employee’s overtime.
+This chooses a system that suits the needs such as biometric time clocks, punch time chalks and computer based time clocks etc
+
+Once an employee click on the overtime button the time starts counting and then prompt the employee to take a picture of him/herself and once the employee click on the clock out,the time stops counting, the overtime work and time is automatically transferred to the Admin for record purpose and usage to calculate the due wage for the overtime work done thereby reducing human error in the wages room.
+
+This appliaction works optimally and thereby eradicates hard copy filling and filing of papers that maybe lost in the process of the transfer
+
+Methodology:
+Java Language was used to write the code,XML was used for the design of the layouts of this overtime clocking system and this application is built from ground up in its lifecycle.
+
+Limitation: 
+This clocking system maybe limited to location tracking i.e you can not track the exact location of the worker because location mapping(tracker) was not taken into considerations while developing this application.
+Therefore this application is open for an upgrade.
+
+
+
+
+
+
+
